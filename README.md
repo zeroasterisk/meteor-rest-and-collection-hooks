@@ -1,3 +1,5 @@
+> **⚠️ Personal Hobby Project** — This is an independent, personal project by [Alan Blount](https://github.com/zeroasterisk). It is **not affiliated with, endorsed by, or supported by any employer, company, or organization**. No warranty; use at your own risk.
+
 Example REPO for Issue: https://github.com/stubailo/meteor-rest/issues/119
 
 All you have to do is start it up,
